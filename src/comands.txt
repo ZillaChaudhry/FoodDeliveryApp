@@ -1,0 +1,9 @@
+npm create vite@latest
+project name --> Food Delivery App
+Framework --> React JS
+Variant --> Javascript
+npm install 
+npm run dev
+---------------------------------------------
+
+npm install react-router-dom

@@ -1,0 +1,57 @@
+1#
+Project Create kru and Packages install karo!
+
+2#
+Delete unnecessary files and also setup index.css and App.jsx files!
+
+3#
+Navabar component banao!
+
+4# 
+setup kru pages structure ko!
+
+5#
+Router ki Setting kru!
+
+6#
+Header Component - (Hero Section)
+
+7#
+ExploreMenu Component
+
+8#
+Eske baad ye logic show kru k by default sare categories show ho. 
+Then jb be kese category ko user select krega osse k item show ho.
+
+9#
+Ek context provider banao jesme hum wo logic rakhenge jo 
+multiple components ma use ho!
+Then ek FoodDisplay component banao.
+
+10#
+food item ma ek state banaya jo food ki count increase or decrease control 
+krta hai. 
+Jabke ye ek good practice nhe ha q k mere pass 32 food items hai jabke ye state hr ek
+item k leye separate state banega which is not a good practice. es leye eska ek context
+object banao.
+
+11#
+eske baad esko responsive banao
+
+12#
+jb link pe clikc kru tu corresponding section pe page scroll hojaye.
+
+13#
+sign and login popup.
+
+14#
+cart component
+
+15#
+getTotalCartAmount logic and show
+
+16#
+agar cart ma koye item ha tu red dot show ho or agar nhe ho tu na show ho.
+
+17# 
+proceed to checkout pr navigate kro placeorder page pe.
